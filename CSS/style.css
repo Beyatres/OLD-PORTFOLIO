@@ -1,0 +1,44 @@
+.header{
+    background-image: url("1.png");
+    min-height:4em;
+    padding: 1em;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    text-align: center;
+    background-size: cover;
+overflow: hidden;    
+}
+
+.details{
+    background-image: url("bg.png");
+    min-height: 40em;
+    align-items: center;
+    background-size: cover;
+}
+
+h3.box{
+    border: 5px solid; 
+    width:60%; 
+    min-height: 5cm; 
+    display: inline-block;
+}
+
+h3.box1{
+    border: 5px solid; 
+    width:38%; 
+    min-height: 5cm; 
+    display: inline-block;
+}
+        
+    
+
+.footer{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url("1.png");
+    background-size: cover;
+    min-height: 3em;
+}
+
+div p.sm {
+    font-size: 1cm;
+}

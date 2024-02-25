@@ -1,0 +1,23 @@
+.details{
+    background-image: url("b.png");
+    min-height: 30em;
+
+        
+    }
+    h3.box2, h3.box3, h3.box4, h3.box5{
+        border: 5px solid; 
+        width:24%; 
+        min-height: 5cm; 
+        display: inline-flex;
+        background-color: bisque;
+       
+        
+    }
+
+    h3.box6, h3.box7, h3.box8, h3.box9{
+        border: 5px solid; 
+        width:24%; 
+        min-height: 5cm; 
+        display: inline-flex;
+        background-color: bisque;
+    }

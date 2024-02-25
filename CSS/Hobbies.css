@@ -1,0 +1,25 @@
+.details{
+  background-image: url(b.png);
+    min-height: 30em;
+    background-size: cover;        
+    }
+
+    h3.box6, h3.box7, h3.box8{
+        border: 5px solid; 
+        width:28%; 
+        min-height: 15cm; 
+        display: inline-block;
+    }
+
+    h3.box9{
+        border: 5px solid; 
+        width:47%; 
+        min-height: 10cm; 
+        display: inline-block;
+    }
+    h3.box10{
+        border: 5px solid; 
+        width:47%; 
+        min-height: 10cm; 
+        display: inline-block;
+    }

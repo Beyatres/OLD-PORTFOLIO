@@ -1,0 +1,16 @@
+.details{
+    background-image: url("b.png");
+    min-height: 25em;
+    background-size: cover;
+    min-height:2em;
+    padding: 1em;
+
+        }
+
+    h3.box10, h3.box11, h3.box12, h3.box13{
+        border: 5px solid; 
+        width:45%; 
+        min-height: 5cm; 
+        display: inline-block;
+        align-content: center;
+    }
